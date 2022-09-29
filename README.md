@@ -27,17 +27,6 @@ The app built to have an ML model to categorize every message received
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
-   Or Go to http://localhost:3001/
-
-## Screenshots
-
-***Screenshot 1: App analysis of the data base***
-![Screenshot 1](https://github.com/atwahsz/Disaster-Response-Pipeline/blob/master/readme-pics/Capture2.JPG)
-
-***Screenshot 2: App word search Page***
-![Screenshot 2](https://github.com/atwahsz/Disaster-Response-Pipeline/blob/master/readme-pics/Capture.JPG)
-
 
 ## Licensing, Authors, Acknowledgements
-This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+This app was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree).
